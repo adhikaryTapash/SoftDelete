@@ -1,0 +1,55 @@
+# Build results
+bin/
+obj/
+artifacts/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NuGet package output
+*.nupkg
+*.snupkg
+
+# Auto-generated files
+*.generated.cs
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Dependency graph
+project.assets.json
+project.lock.json
+
+# Configuration transforms
+appsettings.*.json
+secrets.json
+
+# Publish folder
+publish/
+
+# Dotnet CLI
+.nuget/
+*.deps.json
+*.runtimeconfig.json
+
+# ReSharper
+_ReSharper*/
